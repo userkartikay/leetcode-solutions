@@ -6,6 +6,7 @@ my solutions to leetcode problems
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/userkartikay/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/userkartikay/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/userkartikay/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/userkartikay/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -21,6 +22,7 @@ my solutions to leetcode problems
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/userkartikay/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/userkartikay/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/userkartikay/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/userkartikay/leetcode-solutions/tree/master/0796-rotate-string) |
@@ -47,4 +49,8 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/userkartikay/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/userkartikay/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
