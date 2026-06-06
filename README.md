@@ -20,6 +20,7 @@ my solutions to leetcode problems
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/userkartikay/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/userkartikay/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/userkartikay/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/userkartikay/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/userkartikay/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -58,6 +59,7 @@ my solutions to leetcode problems
 | ------- |
 | [0013-roman-to-integer](https://github.com/userkartikay/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/userkartikay/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/userkartikay/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/userkartikay/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Trie
@@ -74,6 +76,7 @@ my solutions to leetcode problems
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/userkartikay/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/userkartikay/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/userkartikay/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/userkartikay/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/userkartikay/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
