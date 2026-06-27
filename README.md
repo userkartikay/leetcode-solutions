@@ -146,6 +146,7 @@ my solutions to leetcode problems
 | [0090-subsets-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/userkartikay/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0491-non-decreasing-subsequences](https://github.com/userkartikay/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/userkartikay/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sliding Window
 |  |
 | ------- |
