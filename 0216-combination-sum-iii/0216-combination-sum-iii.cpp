@@ -10,6 +10,9 @@ public:
             return;
         }
         for(int i=index;i<=9;i++){
+            if(n-i<0){
+                break;
+            }
 
             temp.push_back(i);
             solve(k,n-i,temp,i+1);
