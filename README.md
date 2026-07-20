@@ -11,6 +11,7 @@ my solutions to leetcode problems
 | [0039-combination-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/userkartikay/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/userkartikay/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/userkartikay/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
@@ -48,6 +49,7 @@ my solutions to leetcode problems
 | [0013-roman-to-integer](https://github.com/userkartikay/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/userkartikay/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/userkartikay/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/userkartikay/leetcode-solutions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/userkartikay/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/userkartikay/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/userkartikay/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -164,6 +166,7 @@ my solutions to leetcode problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/userkartikay/leetcode-solutions/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/userkartikay/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -180,7 +183,12 @@ my solutions to leetcode problems
 | [0039-combination-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/userkartikay/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/userkartikay/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/userkartikay/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/userkartikay/leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
