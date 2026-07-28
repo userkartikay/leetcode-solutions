@@ -10,6 +10,7 @@ my solutions to leetcode problems
 | [0014-longest-common-prefix](https://github.com/userkartikay/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0075-sort-colors](https://github.com/userkartikay/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/userkartikay/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/userkartikay/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -31,6 +32,7 @@ my solutions to leetcode problems
 | [0005-longest-palindromic-substring](https://github.com/userkartikay/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/userkartikay/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/userkartikay/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/userkartikay/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/userkartikay/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/userkartikay/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -75,6 +77,7 @@ my solutions to leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/userkartikay/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/userkartikay/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/userkartikay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/userkartikay/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
