@@ -16,6 +16,7 @@ my solutions to leetcode problems
 | [0090-subsets-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/userkartikay/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/userkartikay/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/userkartikay/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/userkartikay/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -98,6 +99,7 @@ my solutions to leetcode problems
 | [0242-valid-anagram](https://github.com/userkartikay/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/userkartikay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/userkartikay/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/userkartikay/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Trie
 |  |
 | ------- |
@@ -106,6 +108,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/userkartikay/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/userkartikay/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/userkartikay/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
@@ -194,4 +197,8 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0079-word-search](https://github.com/userkartikay/leetcode-solutions/tree/master/0079-word-search) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/userkartikay/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
