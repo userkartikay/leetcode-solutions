@@ -17,9 +17,7 @@ public:
             st.push(nums2[i]);
         }
         for(int j=0;j<nums1.size();j++){
-            if(mp.find(nums1[j])!=mp.end()){
                 v1.push_back(mp[nums1[j]]);
-            }
         }
         return v1;
 
