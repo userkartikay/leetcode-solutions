@@ -23,6 +23,7 @@ my solutions to leetcode problems
 | [0560-subarray-sum-equals-k](https://github.com/userkartikay/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/userkartikay/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/userkartikay/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/userkartikay/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/userkartikay/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/userkartikay/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2104-sum-of-subarray-ranges](https://github.com/userkartikay/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -107,6 +108,7 @@ my solutions to leetcode problems
 | [0491-non-decreasing-subsequences](https://github.com/userkartikay/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/userkartikay/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/userkartikay/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/userkartikay/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
@@ -242,4 +244,5 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/userkartikay/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/userkartikay/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
