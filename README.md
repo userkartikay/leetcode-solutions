@@ -24,6 +24,7 @@ my solutions to leetcode problems
 | [0735-asteroid-collision](https://github.com/userkartikay/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/userkartikay/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/userkartikay/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/userkartikay/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/userkartikay/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2104-sum-of-subarray-ranges](https://github.com/userkartikay/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -32,6 +33,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/userkartikay/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/userkartikay/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
@@ -183,6 +185,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/userkartikay/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Tree
 |  |
 | ------- |
@@ -245,4 +248,5 @@ my solutions to leetcode problems
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/userkartikay/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/userkartikay/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
