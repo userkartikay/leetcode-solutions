@@ -6,15 +6,13 @@ public:
         
         for(int r=0;r<n;r++){
             mp[fruits[r]]++;
-            if(mp.size()>2){
-                while(mp.size()>2){
-                    mp[fruits[l]]--;
+            while(mp.size()>2){
+                mp[fruits[l]]--;
                     
-                    if(mp[fruits[l]]==0){
-                        mp.erase(fruits[l]);
-                    }
-                    l++;
+                if(mp[fruits[l]]==0){
+                    mp.erase(fruits[l]);
                 }
+                l++;
             }
             maxf=max(maxf,r-l+1);
         }
