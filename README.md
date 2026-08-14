@@ -22,6 +22,7 @@ my solutions to leetcode problems
 | [0540-single-element-in-a-sorted-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/userkartikay/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/userkartikay/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/userkartikay/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/userkartikay/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/userkartikay/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -113,6 +114,7 @@ my solutions to leetcode problems
 | [0491-non-decreasing-subsequences](https://github.com/userkartikay/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/userkartikay/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/userkartikay/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/userkartikay/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/userkartikay/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Trie
 |  |
@@ -190,6 +192,7 @@ my solutions to leetcode problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/userkartikay/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/userkartikay/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0904-fruit-into-baskets](https://github.com/userkartikay/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Tree
 |  |
