@@ -82,6 +82,7 @@ my solutions to leetcode problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/userkartikay/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/userkartikay/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/userkartikay/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/userkartikay/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/userkartikay/leetcode-solutions/tree/master/0326-power-of-three) |
 | [1248-count-number-of-nice-subarrays](https://github.com/userkartikay/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -162,6 +163,7 @@ my solutions to leetcode problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/userkartikay/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/userkartikay/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/userkartikay/leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/userkartikay/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/userkartikay/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/userkartikay/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
