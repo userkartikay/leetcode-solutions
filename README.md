@@ -216,6 +216,7 @@ my solutions to leetcode problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/userkartikay/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/userkartikay/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/userkartikay/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/userkartikay/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -240,6 +241,7 @@ my solutions to leetcode problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/userkartikay/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/userkartikay/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/userkartikay/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/userkartikay/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -279,4 +281,8 @@ my solutions to leetcode problems
 | [0974-subarray-sums-divisible-by-k](https://github.com/userkartikay/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/userkartikay/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/userkartikay/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
