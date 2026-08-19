@@ -77,6 +77,7 @@ my solutions to leetcode problems
 | [0392-is-subsequence](https://github.com/userkartikay/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/userkartikay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/userkartikay/leetcode-solutions/tree/master/0796-rotate-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/userkartikay/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/userkartikay/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/userkartikay/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Math
@@ -127,6 +128,7 @@ my solutions to leetcode problems
 | [0974-subarray-sums-divisible-by-k](https://github.com/userkartikay/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/userkartikay/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/userkartikay/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/userkartikay/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Trie
 |  |
 | ------- |
@@ -210,6 +212,7 @@ my solutions to leetcode problems
 | [0992-subarrays-with-k-different-integers](https://github.com/userkartikay/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/userkartikay/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/userkartikay/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Tree
 |  |
 | ------- |
