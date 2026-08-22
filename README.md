@@ -10,6 +10,7 @@ my solutions to leetcode problems
 | [0014-longest-common-prefix](https://github.com/userkartikay/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/userkartikay/leetcode-solutions/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/userkartikay/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/userkartikay/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/userkartikay/leetcode-solutions/tree/master/0079-word-search) |
@@ -256,6 +257,7 @@ my solutions to leetcode problems
 | [0022-generate-parentheses](https://github.com/userkartikay/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/userkartikay/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/userkartikay/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/userkartikay/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -306,4 +308,8 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/userkartikay/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/userkartikay/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
