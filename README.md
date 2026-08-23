@@ -8,6 +8,7 @@ my solutions to leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/userkartikay/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/userkartikay/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/userkartikay/leetcode-solutions/tree/master/0051-n-queens) |
@@ -114,6 +115,7 @@ my solutions to leetcode problems
 | [0001-two-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/userkartikay/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/userkartikay/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/userkartikay/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/userkartikay/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/userkartikay/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -255,6 +257,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/userkartikay/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/userkartikay/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/userkartikay/leetcode-solutions/tree/master/0051-n-queens) |
@@ -266,6 +269,7 @@ my solutions to leetcode problems
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/userkartikay/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/userkartikay/leetcode-solutions/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
@@ -311,5 +315,10 @@ my solutions to leetcode problems
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/userkartikay/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/userkartikay/leetcode-solutions/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/userkartikay/leetcode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
