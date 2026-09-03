@@ -18,6 +18,7 @@ my solutions to leetcode problems
 | [0084-largest-rectangle-in-histogram](https://github.com/userkartikay/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0414-third-maximum-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0491-non-decreasing-subsequences](https://github.com/userkartikay/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/userkartikay/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -105,6 +106,7 @@ my solutions to leetcode problems
 | ------- |
 | [0075-sort-colors](https://github.com/userkartikay/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/userkartikay/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/userkartikay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/userkartikay/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## String Matching
