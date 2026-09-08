@@ -43,6 +43,7 @@ my solutions to leetcode problems
 | [1539-kth-missing-positive-number](https://github.com/userkartikay/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2104-sum-of-subarray-ranges](https://github.com/userkartikay/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/userkartikay/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/userkartikay/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ my solutions to leetcode problems
 | [0876-middle-of-the-linked-list](https://github.com/userkartikay/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/userkartikay/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/userkartikay/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/userkartikay/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
@@ -113,6 +115,7 @@ my solutions to leetcode problems
 | [0455-assign-cookies](https://github.com/userkartikay/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/userkartikay/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/userkartikay/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/userkartikay/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +129,7 @@ my solutions to leetcode problems
 | [0455-assign-cookies](https://github.com/userkartikay/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/userkartikay/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/userkartikay/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/userkartikay/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String Matching
 |  |
 | ------- |
