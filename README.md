@@ -109,6 +109,7 @@ my solutions to leetcode problems
 | [1248-count-number-of-nice-subarrays](https://github.com/userkartikay/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/userkartikay/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/userkartikay/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2578-split-with-minimum-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -116,6 +117,7 @@ my solutions to leetcode problems
 | [1903-largest-odd-number-in-string](https://github.com/userkartikay/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/userkartikay/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/userkartikay/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2578-split-with-minimum-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +132,7 @@ my solutions to leetcode problems
 | [1346-check-if-n-and-its-double-exist](https://github.com/userkartikay/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/userkartikay/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/userkartikay/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2578-split-with-minimum-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 ## String Matching
 |  |
 | ------- |
