@@ -17,6 +17,7 @@ my solutions to leetcode problems
 | [0079-word-search](https://github.com/userkartikay/leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/userkartikay/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0198-house-robber](https://github.com/userkartikay/leetcode-solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0268-missing-number) |
@@ -233,6 +234,7 @@ my solutions to leetcode problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/userkartikay/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/userkartikay/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0198-house-robber](https://github.com/userkartikay/leetcode-solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/userkartikay/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/userkartikay/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Bit Manipulation
