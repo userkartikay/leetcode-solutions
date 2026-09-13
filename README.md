@@ -103,6 +103,7 @@ my solutions to leetcode problems
 | [0002-add-two-numbers](https://github.com/userkartikay/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/userkartikay/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/userkartikay/leetcode-solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/userkartikay/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/userkartikay/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/userkartikay/leetcode-solutions/tree/master/0326-power-of-three) |
@@ -234,6 +235,7 @@ my solutions to leetcode problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/userkartikay/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/userkartikay/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/userkartikay/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/userkartikay/leetcode-solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/userkartikay/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/userkartikay/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -389,4 +391,8 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/userkartikay/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/userkartikay/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
