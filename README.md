@@ -21,6 +21,7 @@ my solutions to leetcode problems
 | [0215-kth-largest-element-in-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/userkartikay/leetcode-solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/userkartikay/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -53,6 +54,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/userkartikay/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -72,6 +74,7 @@ my solutions to leetcode problems
 | [0151-reverse-words-in-a-string](https://github.com/userkartikay/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/userkartikay/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/userkartikay/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/userkartikay/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/userkartikay/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/userkartikay/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -256,6 +259,7 @@ my solutions to leetcode problems
 | [0090-subsets-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/userkartikay/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/userkartikay/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0491-non-decreasing-subsequences](https://github.com/userkartikay/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/userkartikay/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -419,4 +423,12 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/userkartikay/leetcode-solutions/tree/master/0176-second-highest-salary) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
