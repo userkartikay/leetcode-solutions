@@ -415,4 +415,8 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/userkartikay/leetcode-solutions/tree/master/0322-coin-change) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/userkartikay/leetcode-solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
