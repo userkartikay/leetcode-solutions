@@ -20,6 +20,7 @@ my solutions to leetcode problems
 | [0198-house-robber](https://github.com/userkartikay/leetcode-solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0219-contains-duplicate-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/userkartikay/leetcode-solutions/tree/master/0322-coin-change) |
@@ -162,6 +163,7 @@ my solutions to leetcode problems
 | [0142-linked-list-cycle-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/userkartikay/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/userkartikay/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/userkartikay/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/userkartikay/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -268,6 +270,7 @@ my solutions to leetcode problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/userkartikay/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/userkartikay/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/userkartikay/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/userkartikay/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
