@@ -18,6 +18,7 @@ my solutions to leetcode problems
 | [0079-word-search](https://github.com/userkartikay/leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/userkartikay/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/userkartikay/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/userkartikay/leetcode-solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/0216-combination-sum-iii) |
@@ -251,6 +252,7 @@ my solutions to leetcode problems
 | [0022-generate-parentheses](https://github.com/userkartikay/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/userkartikay/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/userkartikay/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/userkartikay/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/userkartikay/leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/userkartikay/leetcode-solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/userkartikay/leetcode-solutions/tree/master/0392-is-subsequence) |
