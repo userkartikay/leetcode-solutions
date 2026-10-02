@@ -444,6 +444,7 @@ my solutions to leetcode problems
 | [0181-employees-earning-more-than-their-managers](https://github.com/userkartikay/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/userkartikay/leetcode-solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/userkartikay/leetcode-solutions/tree/master/0183-customers-who-never-order) |
+| [0584-find-customer-referee](https://github.com/userkartikay/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/userkartikay/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Pigeonhole Principle
 |  |
