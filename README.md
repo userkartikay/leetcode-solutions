@@ -47,6 +47,7 @@ my solutions to leetcode problems
 | [1004-max-consecutive-ones-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/userkartikay/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/userkartikay/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1207-unique-number-of-occurrences](https://github.com/userkartikay/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/userkartikay/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/userkartikay/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/userkartikay/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -179,6 +180,7 @@ my solutions to leetcode problems
 | [0930-binary-subarrays-with-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/userkartikay/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/userkartikay/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1207-unique-number-of-occurrences](https://github.com/userkartikay/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/userkartikay/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/userkartikay/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/userkartikay/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
