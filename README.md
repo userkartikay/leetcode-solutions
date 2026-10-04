@@ -7,6 +7,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/userkartikay/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/userkartikay/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/userkartikay/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/0039-combination-sum) |
@@ -73,6 +74,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/userkartikay/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/userkartikay/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/userkartikay/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/userkartikay/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/userkartikay/leetcode-solutions/tree/master/0061-rotate-list) |
@@ -135,6 +137,7 @@ my solutions to leetcode problems
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/userkartikay/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/userkartikay/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/userkartikay/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/userkartikay/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
