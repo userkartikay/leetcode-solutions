@@ -45,6 +45,7 @@ my solutions to leetcode problems
 | [0746-min-cost-climbing-stairs](https://github.com/userkartikay/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/userkartikay/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/userkartikay/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0912-sort-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/userkartikay/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/userkartikay/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -158,6 +159,7 @@ my solutions to leetcode problems
 | [0442-find-all-duplicates-in-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/userkartikay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/userkartikay/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0912-sort-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/userkartikay/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/userkartikay/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -251,12 +253,14 @@ my solutions to leetcode problems
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/userkartikay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/userkartikay/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/userkartikay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -426,6 +430,7 @@ my solutions to leetcode problems
 | ------- |
 | [0053-maximum-subarray](https://github.com/userkartikay/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -466,4 +471,16 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
