@@ -438,6 +438,7 @@ my solutions to leetcode problems
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/userkartikay/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/userkartikay/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Memoization
 |  |
@@ -483,4 +484,8 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/userkartikay/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
