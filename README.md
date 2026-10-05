@@ -40,6 +40,7 @@ my solutions to leetcode problems
 | [0503-next-greater-element-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/userkartikay/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/userkartikay/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/userkartikay/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/userkartikay/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/userkartikay/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -143,6 +144,7 @@ my solutions to leetcode problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/userkartikay/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/userkartikay/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/userkartikay/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1903-largest-odd-number-in-string](https://github.com/userkartikay/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/userkartikay/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/userkartikay/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
