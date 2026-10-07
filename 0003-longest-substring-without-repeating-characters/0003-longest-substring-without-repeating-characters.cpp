@@ -5,10 +5,7 @@ public:
         unordered_map<char,int> mp;
         while(j<s.size()){
             if(mp.find(s[j])!=mp.end()){
-                while (l <= mp[s[j]]) {
-                    mp.erase(s[l]);
-                    l++;
-                }
+                l=max(l,mp[s[j]] + 1);
             }
             mp[s[j]]=j;
             len=max(len,j-l+1);
