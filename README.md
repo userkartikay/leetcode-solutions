@@ -21,6 +21,7 @@ my solutions to leetcode problems
 | [0090-subsets-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/userkartikay/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/userkartikay/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/userkartikay/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/userkartikay/leetcode-solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -69,6 +70,7 @@ my solutions to leetcode problems
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/userkartikay/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/userkartikay/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0268-missing-number) |
