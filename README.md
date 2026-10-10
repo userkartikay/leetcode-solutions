@@ -75,6 +75,7 @@ my solutions to leetcode problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/userkartikay/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/userkartikay/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/userkartikay/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -529,4 +530,8 @@ my solutions to leetcode problems
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/userkartikay/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/userkartikay/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/userkartikay/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
