@@ -15,6 +15,7 @@ my solutions to leetcode problems
 | [0040-combination-sum-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/userkartikay/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/userkartikay/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/userkartikay/leetcode-solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/userkartikay/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/userkartikay/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/userkartikay/leetcode-solutions/tree/master/0078-subsets) |
@@ -164,6 +165,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/userkartikay/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/userkartikay/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/userkartikay/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/userkartikay/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1903-largest-odd-number-in-string](https://github.com/userkartikay/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -301,6 +303,7 @@ my solutions to leetcode problems
 | [0005-longest-palindromic-substring](https://github.com/userkartikay/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/userkartikay/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/userkartikay/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/userkartikay/leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/userkartikay/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/userkartikay/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/userkartikay/leetcode-solutions/tree/master/0198-house-robber) |
