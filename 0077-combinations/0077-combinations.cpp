@@ -6,13 +6,15 @@ public:
             result.push_back(current);
             return;
         }
-        if (idx > n) return;
-        
-        current.push_back(idx);
+        for (int i = idx; i <= n; i++) {
 
-        solve(n,idx+1,k,current);
-        current.pop_back();
-        solve(n,idx+1,k,current);
+            current.push_back(i);
+
+            solve(n, i + 1, k, current);
+
+            current.pop_back();
+        }
+        
         
 
     }
