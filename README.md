@@ -539,6 +539,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/userkartikay/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/userkartikay/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/userkartikay/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
