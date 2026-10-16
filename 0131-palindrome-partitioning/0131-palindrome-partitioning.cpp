@@ -11,7 +11,7 @@ public:
         }
         return true;
     }
-    void solve(string s,vector<string> current,int i){
+    void solve(string s,vector<string> &current,int i){
         if(i==s.size()){
             result.push_back(current);
             return;
