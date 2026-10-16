@@ -145,6 +145,7 @@ my solutions to leetcode problems
 | [0567-permutation-in-string](https://github.com/userkartikay/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/userkartikay/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/userkartikay/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1079-letter-tile-possibilities](https://github.com/userkartikay/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/userkartikay/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/userkartikay/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/userkartikay/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -225,6 +226,7 @@ my solutions to leetcode problems
 | [0930-binary-subarrays-with-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/userkartikay/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/userkartikay/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1079-letter-tile-possibilities](https://github.com/userkartikay/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1207-unique-number-of-occurrences](https://github.com/userkartikay/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/userkartikay/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/userkartikay/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -298,6 +300,7 @@ my solutions to leetcode problems
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/userkartikay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/userkartikay/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1079-letter-tile-possibilities](https://github.com/userkartikay/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1512-number-of-good-pairs](https://github.com/userkartikay/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
@@ -405,6 +408,7 @@ my solutions to leetcode problems
 | [0131-palindrome-partitioning](https://github.com/userkartikay/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/userkartikay/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
+| [1079-letter-tile-possibilities](https://github.com/userkartikay/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 ## Matrix
 |  |
 | ------- |
