@@ -2,14 +2,12 @@ class Solution {
 public:
     vector<vector<string>> result;
     bool isPalindrome(string &s, int left, int right){
-         while (left < right) {
-            if(s[left] == s[right]) {
-                left++;
-                right--;
-            }
-            else {
+        while (left < right) {
+            if (s[left] != s[right])
                 return false;
-            }
+
+            left++;
+            right--;
         }
         return true;
     }
