@@ -520,6 +520,7 @@ my solutions to leetcode problems
 | [0584-find-customer-referee](https://github.com/userkartikay/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/userkartikay/leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/userkartikay/leetcode-solutions/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/userkartikay/leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [1148-article-views-i](https://github.com/userkartikay/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/userkartikay/leetcode-solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/userkartikay/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
