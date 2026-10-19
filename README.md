@@ -522,6 +522,7 @@ my solutions to leetcode problems
 | [0595-big-countries](https://github.com/userkartikay/leetcode-solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/userkartikay/leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/userkartikay/leetcode-solutions/tree/master/0607-sales-person) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/userkartikay/leetcode-solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/userkartikay/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/userkartikay/leetcode-solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/userkartikay/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
