@@ -24,6 +24,7 @@ my solutions to leetcode problems
 | [0084-largest-rectangle-in-histogram](https://github.com/userkartikay/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/userkartikay/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/userkartikay/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/userkartikay/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/userkartikay/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -215,6 +216,7 @@ my solutions to leetcode problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/userkartikay/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/userkartikay/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/userkartikay/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/userkartikay/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/userkartikay/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -576,4 +578,8 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/userkartikay/leetcode-solutions/tree/master/0278-first-bad-version) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/userkartikay/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
