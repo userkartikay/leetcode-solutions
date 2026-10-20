@@ -170,6 +170,7 @@ my solutions to leetcode problems
 | [1248-count-number-of-nice-subarrays](https://github.com/userkartikay/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/userkartikay/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/userkartikay/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2469-convert-the-temperature](https://github.com/userkartikay/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2578-split-with-minimum-sum](https://github.com/userkartikay/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 ## Greedy
 |  |
