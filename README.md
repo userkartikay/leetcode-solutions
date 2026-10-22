@@ -39,6 +39,7 @@ my solutions to leetcode problems
 | [0303-range-sum-query-immutable](https://github.com/userkartikay/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/userkartikay/leetcode-solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/userkartikay/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -89,6 +90,7 @@ my solutions to leetcode problems
 | [0278-first-bad-version](https://github.com/userkartikay/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/userkartikay/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/userkartikay/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/userkartikay/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -116,6 +118,7 @@ my solutions to leetcode problems
 | [0344-reverse-string](https://github.com/userkartikay/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/userkartikay/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/userkartikay/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/userkartikay/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/userkartikay/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/userkartikay/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -192,6 +195,7 @@ my solutions to leetcode problems
 | [0242-valid-anagram](https://github.com/userkartikay/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/userkartikay/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/userkartikay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -226,6 +230,7 @@ my solutions to leetcode problems
 | [0242-valid-anagram](https://github.com/userkartikay/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/userkartikay/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/userkartikay/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/userkartikay/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/userkartikay/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/userkartikay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
