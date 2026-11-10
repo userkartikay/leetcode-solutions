@@ -589,4 +589,8 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/userkartikay/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/userkartikay/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
